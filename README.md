@@ -1,5 +1,5 @@
 
-### Hi, I'm Gianfranco
+## Hi, I'm Gianfranco
 - 🔭 I’m currently working on Data Indexing Problems
 - 🌱 I’m currently learning Data Science on Python
 
