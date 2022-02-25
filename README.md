@@ -1,7 +1,7 @@
 
 ## Hi, I'm Gianfranco
-- 🔭 I’m currently working on Data Indexing Problems
-- 🌱 I’m currently learning Data Science on Python
+- 🔭 I’m currently working on Internet of Things with ESP32
+- 🌱 I’m currently learning Machine Learning on Python
 
 
 [![Gianfranco's's github stats](https://github-readme-stats.vercel.app/api?username=gianfranco-s&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
