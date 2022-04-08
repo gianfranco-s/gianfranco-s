@@ -4,6 +4,15 @@
 - 🌱 I’m currently learning Machine Learning on Python
 
 
+## The languages I'm most comfortable with
+* Python - Django - Flask
+* MATLAB - Octave
+* C/C++ - Assembly
+* PostgreSQL
+* Bootstrap
+* Bash
+
+
 [![Gianfranco's's github stats](https://github-readme-stats.vercel.app/api?username=gianfranco-s&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
