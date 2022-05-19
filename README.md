@@ -15,8 +15,6 @@
 
 [![Gianfranco's's github stats](https://github-readme-stats.vercel.app/api?username=gianfranco-s&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianfranco-s)]()
-
 
 ## Connect with me:
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
