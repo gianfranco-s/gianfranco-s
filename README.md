@@ -15,7 +15,7 @@
 
 [![Gianfranco's's github stats](https://github-readme-stats.vercel.app/api?username=gianfranco-s&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianfranco-s)](https://github.com/gianfranco-s/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianfranco-s)]()
 
 
 ## Connect with me:
