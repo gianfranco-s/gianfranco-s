@@ -1,7 +1,7 @@
 
 ## Hi, I'm Gianfranco
 - 🔭 I’m currently working on Internet of Things with ESP32
-- 🌱 I’m currently learning Machine Learning on Python
+- 🌱 I’m currently learning React
 
 
 ## The languages I'm most comfortable with
