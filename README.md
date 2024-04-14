@@ -1,7 +1,7 @@
 
 ## Hi, I'm Gianfranco, and I love lemon meringue pie
 Tech I love: Python, AWS, Machine Learning  
-Tech I don't love, but can kick into working: HTML, CSS, JS  
+Tech I don't love, but can bully into working: HTML, CSS, JS  
 Tech that I'd like to know, but I'm too lazy to work on: React, Fronted stuff  
 
 
