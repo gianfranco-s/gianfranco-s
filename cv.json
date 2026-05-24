@@ -1,0 +1,607 @@
+{
+    "basics": {
+        "name": "Gianfranco Salomone",
+        "label": "Senior backend / platform engineer",
+        "image": "",
+        "email": "gianfranco.s@gmail.com",
+        "phone": "+5491157318476",
+        "url": "https://gianfranco-salomone.com/",
+        "summary": "I love solving problems with new tech: backend systems, infrastructure, applied math. Over the years I've shipped solutions across Gaming, Security, HR, Fintech, Non-profits. After providing a solution, while walking back home, I ponder: can I meaningfully improve this? Through all of it though, family comes first. Let's connect if you want to talk tech, or anything else.",
+        "location": {
+            "city": "El Bols\u00f3n",
+            "countryCode": "AR",
+            "region": "R\u00edo Negro"
+        },
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "gianfranco-salomone",
+                "url": "https://www.linkedin.com/in/gianfranco-salomone/"
+            },
+            {
+                "network": "github",
+                "username": "gianfranco-s",
+                "url": "https://github.com/gianfranco-s"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Freelance",
+            "position": "Freelance developer",
+            "url": null,
+            "startDate": "2021-01-01",
+            "endDate": null,
+            "summary": "This role involves optimizing infrastructure, automating deployments, and integrating monitoring solutions to ensure the reliability and efficiency of AI applications.",
+            "isRemote": true,
+            "location": "Multiple locations",
+            "highlights": [
+                "Aivilo (2025): Implemented role-based access control (RBAC) across multiple customers, ensuring proper data access isolation between users and roles. (4mths)",
+                "AtticGames (2024): Built an LLM-based content generation system, addressing challenges in response consistency and prompt design for repeatable outputs. (4mths)",
+                "QuickGrill (2021): Developed Android app to control the grill's fan. Implemented connectivity with ESP32 using C++ and Platform IO. (4mths)",
+                "Emissary Software (2021): Contributed to security compliance efforts and backend development, including third-party API integrations. (9mths)"
+            ],
+            "techHighlights": []
+        },
+        {
+            "name": "EPIC iO",
+            "position": "Backend AI Engineer",
+            "url": "https://www.epicio.com/",
+            "startDate": "2024-11-18",
+            "endDate": null,
+            "summary": "This role involves optimizing infrastructure, automating deployments, and integrating monitoring solutions to ensure the reliability and efficiency of AI applications.",
+            "isRemote": true,
+            "location": "US",
+            "highlights": [
+                "Productized Computer Vision PoCs, by standardizing and and hardened internal  APIs, turning prototype endpoints into reliable, production-ready backend services.",
+                "Automated performance testing with Locust and Bitbucket pipelines.",
+                "Implemented observability and profiling using OpenTelemetry.",
+                "Improved release times from 8hs to 2hs, by using Docker multi-stage and Ansible.",
+                "Introduced asynchronous processing patterns to decouple API services from compute-heavy pipelines."
+            ],
+            "techHighlights": [
+                "Python",
+                "ClaudeCode",
+                "GitHub Copilot",
+                "FastAPI",
+                "Docker",
+                "Ansible",
+                "Pytest",
+                "devcontainers",
+                "Code Reviews",
+                "gstreamer",
+                "Grafana",
+                "Prometheus",
+                "Bash",
+                "Open Telemetry"
+            ]
+        },
+        {
+            "name": "MecanTronic",
+            "position": "DevOps / Tech Lead",
+            "url": "https://mecantronic.com.ar/",
+            "startDate": "2024-07-01",
+            "endDate": null,
+            "summary": "DevOps role; tasked with keeping services running while staying cost-effective.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Designed backend infrastructure on AWS using Terraform, focusing on scalability, isolation, security and maintainability. Implemented CI/CD pipelines in AWS+GitHub.",
+                "Led adoption of Ports & Adapters architecture, replacing a fragmented Python/SQL approach.",
+                "Led adoption of AI-assisted development workflows across the team.",
+                "Reduced AWS legacy costs by 30%, while improving security posture.",
+                "Mentored teams into making their own design choices, while keeping global consistency."
+            ],
+            "techHighlights": [
+                "Python",
+                "AWS EC2",
+                "AWS S3",
+                "AWS RDS",
+                "AWS SES",
+                "AWS STS",
+                "AWS Systems Manager",
+                "AWS App Runner",
+                "AWS Secrets Manager",
+                "GitHub Actions",
+                "GitHub OIDC",
+                "CloudFlare",
+                "Docker",
+                "DEV, STG and PRD environments",
+                "InfluxDB",
+                "Grafana",
+                "SSH"
+            ]
+        },
+        {
+            "name": "Aivilo",
+            "position": "Backend Developer",
+            "url": "https://www.aivilo.ai/",
+            "startDate": "2025-11-28",
+            "endDate": "2026-02-28",
+            "summary": "Tasked with integrating security RBAC to almost-finished MVP.",
+            "isRemote": true,
+            "location": "US",
+            "highlights": [
+                "Used ClaudeCode to generate specifications, planning, implementation and testing of RBAC in existing microservices.",
+                "Fast paced startup environment."
+            ],
+            "techHighlights": [
+                "ClaudeCode"
+            ]
+        },
+        {
+            "name": "Upwork/AtticGames",
+            "position": "LLM Python Developer",
+            "url": "https://www.atticgamesdevelopment.com/",
+            "startDate": "2024-07-01",
+            "endDate": "2024-11-15",
+            "summary": "Tasked with integrating an LLM to a game to generate endless content for worlds based on the user's prompt. Main challenge: response repeatability.",
+            "isRemote": true,
+            "location": "US",
+            "highlights": [
+                "Used Ollama locally for game content generation.",
+                "Created content for worlds by layering different steps of world creation.",
+                "Convert user prompts to standardized JSON, based on the world's setting.",
+                "Integrated with the main engine using REST API.",
+                "Create prompt manager UI in order to quickly iterate over promts more easily."
+            ],
+            "techHighlights": [
+                "FastAPI",
+                "Ollama",
+                "HTTP requests",
+                "prompt engineering",
+                "TypeScript",
+                "JSON schemas"
+            ]
+        },
+        {
+            "name": "Baitcon/AySA",
+            "position": "Python Team Lead",
+            "url": "https://www.baitcon.com/",
+            "startDate": "2022-11-01",
+            "endDate": "2025-02-28",
+            "summary": "Lead developer and consultant in Python projects. Company's projects range from ETL to FullStack applications. All environments are deployed in SAP BTP or SAP AI Core. Most projects are geared towards in-company management.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Managed multi-environment deployments (DEV, STG, PRD) ensuring consistency and reliability.",
+                "Designed ETL pipelines for data migration (Oracle → SAP HANA), handling data ingestion, transformation, and normalization across enterprise systems.",
+                "Led PoC of a Retrieval-Augmented Generation system on client data sources.",
+                "Established testing strategies to ensure system reliability across SAP-related updates and deployments."
+            ],
+            "techHighlights": [
+                "Flask",
+                "DTAP environments",
+                "ETL",
+                "SAP HANA",
+                "SAP BTP",
+                "SAP AI Core",
+                "Code Reviews",
+                "TDD",
+                "MySQL",
+                "React",
+                "Pytest"
+            ]
+        },
+        {
+            "name": "Shuttle99",
+            "position": "Full Stack developer",
+            "url": "https://shuttle99.com/",
+            "startDate": "2022-04-01",
+            "endDate": "2023-08-01",
+            "summary": "Maintained a complex Flask project deployed across multiple countries in multiple languages. Worked through all the stack of technologies of the project: frontend in JavaScript, HTML and CSS, backend in Flask, database in PostgreSQL and Redis. Databases stored tens of thousands of clients.",
+            "isRemote": true,
+            "location": "Canary Islands",
+            "highlights": [
+                "Maintained backend systems handling multi-country integrations (REST/SOAP APIs).",
+                "Managed relational data models in PostgreSQL for production systems.",
+                "Built automated E2E testing to ensure reliability of distributed integrations."
+            ],
+            "techHighlights": [
+                "Flask",
+                "BDD",
+                "Selenium",
+                "REST",
+                "SOAP",
+                "PostgreSQL",
+                "Code Reviews"
+            ]
+        },
+        {
+            "name": "IoT MecanTronic",
+            "position": "Cloud Developer",
+            "url": "https://mecantronic.com.ar/",
+            "startDate": "2023-01-03",
+            "endDate": "2023-09-30",
+            "summary": "Main developer of IoT Grafana reporting project.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Deployed and maintained hospital-noise metrics dashboard.",
+                "Deployed and maintained QuickGrill calibration data metrics dashboard.",
+                "Improved how logs are stored and rotated in docker containers.",
+                "Maintained custom MQTT codebase for IoT projects."
+            ],
+            "techHighlights": [
+                "Python",
+                "AWS EC2",
+                "MQTT",
+                "IoT",
+                "Docker",
+                "InfluxDB",
+                "Grafana",
+                "SSH"
+            ]
+        },
+        {
+            "name": "Emissary Software LLC",
+            "position": "Python developer",
+            "url": "https://www.emissary.ai/",
+            "startDate": "2021-09-21",
+            "endDate": "2022-07-01",
+            "summary": "My main responsibilities were to perform first surveys of new technologies, Cypress E2E testing and making sure the company was compliant with current US standard security policies.",
+            "isRemote": true,
+            "location": "New York",
+            "highlights": [
+                "Dockerized and deployed apps on AWS, optimizing for legacy Ubuntu versions.",
+                "Conducted Cypress end-to-end (E2E) testing to ensure quality and reliability.",
+                "Integrated MailShake to the main Django app using REST API, enhancing cold-email reporting.",
+                "Responded to security questionnaires from prospective clients, addressing inquiries about our user data protection policies, Software Development Life Cycle (SDLC), and the security practices we would implement.",
+                "Performed initial tests of Wazuh integration for server monitoring."
+
+            ],
+            "techHighlights": [
+                "Docker",
+                "Linux",
+                "MailShake",
+                "Cypress",
+                "Security Compliance",
+                "SDLC"
+            ]
+        },
+        {
+            "name": "QuickGrill",
+            "position": "Freelance IoT developer",
+            "url": null,
+            "startDate": "2021-09-21",
+            "endDate": "2022-07-01",
+            "summary": "Worked independently for a startup which developed a bluetooth-controlled grill. I was tasked to create the interface between an Android device and the grill's brain.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Developed an Android app for Bluetooth Low Energy connectivity to an embedded turbine speed controller.",
+                "Designed the mobile app frontend using React Native and Typescript.",
+                "Implemented backend connectivity with ESP32 using C++ and Platform IO."
+                
+            ],
+            "techHighlights": [
+                "TypeScript",
+                "Android",
+                "C/C++",
+                "ESP32",
+                "PlatformIO"
+            ]
+        },
+        {
+            "name": "UNLZ - UNGS - FIE - UB",
+            "position": "University Teacher",
+            "url": null,
+            "startDate": "2010-01-01",
+            "endDate": "2021-06-01",
+            "summary": "I've always been a teacher at heart. I taught on many levels through many years.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Designed and structured comprehensive syllabi for Electronics and Control Systems courses.",
+                "Developed Physics simulations using MATLAB.",
+                "Designed and implemented hands-on lab experiences for Physics students.",
+                "Created and facilitated laboratory experiments for Electronics students using Arduino and Arduino-based simulations.",
+                "Simulated and analyzed linear and non-linear control strategies using MATLAB and Python.",
+                "Advocated for transitioning from closed-source software (MATLAB) to open-source alternatives (Python)."
+            ],
+            "techHighlights": [
+                "MATLAB",
+                "C/C++",
+                "Arduino",
+                "Python",
+                "Circuit Boards",
+                "Assembly"
+            ]
+        },
+        {
+            "name": "Facultad de Ingeniería del Ejército",
+            "position": "Academic Researcher",
+            "url": null,
+            "startDate": "2018-01-01",
+            "endDate": "2021-06-01",
+            "summary": "I was tasked with designing a sun follower system to be used to improve energy efficiency of the electronics lab.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Designed a sun follower system using a 3-phase motor.",
+                "Automation performed with SCADA PLC.",
+                "Implemented control logic in Ladder language and created LabView dashboards."
+            ],
+            "techHighlights": [
+                "LabView",
+                "PLC",
+                "SCADA"
+            ]
+        },
+        {
+            "name": "Defense Ministry/CITEDEF",
+            "position": "Defense IoT Software Developer",
+            "url": null,
+            "startDate": "2010-08-01",
+            "endDate": "2013-09-01",
+            "summary": "Upgrade for training sofware used in LASER duel simulators for the Argentine army.",
+            "isRemote": true,
+            "location": "Buenos Aires",
+            "highlights": [
+                "Blank ammunition shot detected via optical sensors.",
+                "Shooter information sent via solid state pulse laser.",
+                "Shooter ID and timestamp stored in the target unit."
+            ],
+            "techHighlights": [
+                "C/C++",
+                "Assembly"
+            ]
+        }
+    ],
+    "volunteer": null,
+    "education": [
+        {
+            "institution": "SAA-C03 - AWS",
+            "url": null,
+            "area": "AWS Solutions Architect",
+            "studyType": null,
+            "startDate": "2024-02-01",
+            "endDate": null
+        },
+        {
+            "institution": "SAP Certified",
+            "url": "https://www.credly.com/badges/802751fe-6430-4c8c-81c2-f129e67d2e1d/public_url",
+            "area": "SAP Data Engineer",
+            "studyType": null,
+            "startDate": "2024-06-30",
+            "endDate": "2024-06-20"
+        },
+        {
+            "institution": "SAP Certified",
+            "url": "https://www.credly.com/badges/8f99822a-e0f6-4773-8614-468f5038afdc/public_url",
+            "area": "SAP Database Administrator",
+            "studyType": null,
+            "startDate": "2023-12-14",
+            "endDate": "2024-02-17"
+        },
+        {
+            "institution": "IBM Skillsbuild",
+            "url": null,
+            "area": "React Native Mobile Dev",
+            "studyType": null,
+            "startDate": "2021-07-01",
+            "endDate": "2021-11-01"
+        },
+        {
+            "institution": "Buenos Aires Ciudad - Codo a Codo",
+            "url": null,
+            "area": "Python Full Stack",
+            "studyType": null,
+            "startDate": "2021-02-01",
+            "endDate": "2021-07-21"
+        },
+        {
+            "institution": "Facultad de Ingenier\u00eda del Ej\u00e9rcito",
+            "url": null,
+            "area": "Control Systems Specialist",
+            "studyType": "specialist",
+            "startDate": "2014-01-01",
+            "endDate": "2016-01-01"
+        },
+        {
+            "institution": "Facultad de Ingenier\u00eda del Ej\u00e9rcito",
+            "url": null,
+            "area": "Electronics Engineer",
+            "studyType": "undergrad",
+            "startDate": "2002-01-01",
+            "endDate": "2009-01-01"
+        }
+    ],
+    "awards": {},
+    "certificates": [
+        {
+            "name": "SAP Certified Associate - Data Engineer - SAP HANA",
+            "date": "2024-06-30",
+            "issuer": "SAP",
+            "url": "https://www.credly.com/badges/802751fe-6430-4c8c-81c2-f129e67d2e1d/public_url"
+        },
+        {
+            "name": "SAP Certified Associate - Database Administrator - SAP HANA",
+            "date": "2024-01-18",
+            "issuer": "SAP",
+            "url": "https://www.credly.com/badges/8f99822a-e0f6-4773-8614-468f5038afdc/public_url"
+        },
+        {
+            "name": "SAP Certified Technology Associate - SAP HANA 2.0 SPS07",
+            "date": "2024-01-18",
+            "issuer": "SAP",
+            "url": "https://www.credly.com/badges/229ebe18-c51d-41ab-84c7-89b378bbd191/public_url"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Todo Bajo Control",
+            "publisher": "unpublished",
+            "releaseDate": null,
+            "url": null,
+            "summary": "A Control Systems text book."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Backend",
+            "level": null,
+            "keywords": [
+                "Python (FastAPI, Flask)",
+                "PyTest",
+                "bash",
+                "nginx",
+                "Ollama",
+                "Docker",
+                "Ansible",
+                "Terraform",
+                "Kubernetes",
+                "Selenium",
+                "Gstreamer",
+                "Pandas",
+                "Gherkin",
+                "Cypress",
+                "C/C++",
+                "Assembly"
+            ]
+        },
+        {
+            "name": "Cloud",
+            "level": null,
+            "keywords": [
+                "AWS IAM",
+                "AWS S3",
+                "AWS EC2",
+                "AWS STS",
+                "AWS SES",
+                "AWS SecretsManager",
+                "AWS SystemManager",
+                "AWS ECR",
+                "AWS Billing",
+                "AWS AppRunner",
+                "AWS LoadBalancer",
+                "AWS AutoScalingGroup"
+            ]
+        },
+        {
+            "name": "Observability",
+            "level": null,
+            "keywords": [
+                "Prometheus",
+                "Grafana",
+                "Open Telemetry",
+                "Locust"
+            ]
+        },
+        {
+            "name": "Databases",
+            "level": null,
+            "keywords": [
+                "PostgreSQL",
+                "MySQL",
+                "Redis",
+                "ORM"
+            ]
+        },
+        {
+            "name": "Tools",
+            "level": null,
+            "keywords": [
+                "Git",
+                "GitHub",
+                "Slack",
+                "Jira",
+                "OpenObserve"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "native"
+        },
+        {
+            "language": "English",
+            "fluency": "C1"
+        },
+        {
+            "language": "German",
+            "fluency": "basic"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Proud dad",
+            "summary": "Like any dad, I try to balance work life with family life. I have two kids and I like to take them to activities and play with them as much as possible. Childhood does not come twice.",
+            "keywords": null
+        },
+        {
+            "name": "Amateur baker",
+            "summary": "I love Lemon Meringue Pie, so much that in order to avoid bugging people to cook it, I learned to do it myself. After that, there was no stopping: tiramisu, Castella cake, flan. Do you have a sweet tooth as well?",
+            "keywords": null
+        }
+    ],
+    "references": null,
+    "projects": [
+        {
+            "name": "Atendi",
+            "startDate": "2024-02-01",
+            "endDate": null,
+            "description": "We use people's faces to take attendance. Currently marketed towards Universities.",
+            "highlights": [
+                "FastAPI",
+                "ReactJS",
+                "AWS",
+                "Computer Vision",
+                "TDD"
+            ],
+            "url": "https://www.linkedin.com/company/atendi-ai/"
+        },
+        {
+            "name": "Improve My CV",
+            "startDate": "2024-04-09",
+            "endDate": null,
+            "description": "Improve a JSON resume by asking an LLM. Can be either commercial, like OpenAI or local, like Ollama.",
+            "highlights": [
+                "FastAPI",
+                "Ollama",
+                "Requests",
+                "Pytest"
+            ],
+            "url": "https://github.com/gianfranco-s/improve-my-cv"
+        },
+        {
+            "name": "JSON Career View",
+            "startDate": "2024-04-09",
+            "endDate": null,
+            "description": "Render a resume based on a JSON file, using the jsonresume standard. You're looking at it :)",
+            "highlights": [
+                "ReactJS",
+                "TypeScript",
+                "TailwindCSS",
+                "NextJS",
+                "Vercel"
+            ],
+            "url": "https://github.com/gianfranco-s/json-career-view"
+        },
+        {
+            "name": "Invoice automation",
+            "startDate": "2024-09-06",
+            "endDate": "2024-09-07",
+            "description": "Weekend project to integrate ARCA REST API to automate invoice generation.",
+            "highlights": [
+                "Python",
+                "REST API"
+            ],
+            "url": "https://github.com/gianfranco-s/facturacion-servicios-afip"
+        },
+        {
+            "name": "Custom copilot on SAP",
+            "startDate": "2024-03-01",
+            "endDate": "2024-05-01",
+            "description": "For corporate use. It would provide assistance closely manage day-to-day spending in the context of a state funded company.",
+            "highlights": [
+                "SAP BTP",
+                "SAP AI Core",
+                "SAP HANA Vector Store"
+            ],
+            "url": null
+        }
+    ]
+}
+
