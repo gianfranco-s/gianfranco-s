@@ -32,14 +32,14 @@
             "url": null,
             "startDate": "2021-01-01",
             "endDate": null,
-            "summary": "This role involves optimizing infrastructure, automating deployments, and integrating monitoring solutions to ensure the reliability and efficiency of AI applications.",
+            "summary": "Shorthand-freelance roles here.",
             "isRemote": true,
             "location": "Multiple locations",
             "highlights": [
-                "Aivilo (2025): Implemented role-based access control (RBAC) across multiple customers, ensuring proper data access isolation between users and roles. (4mths)",
-                "AtticGames (2024): Built an LLM-based content generation system, addressing challenges in response consistency and prompt design for repeatable outputs. (4mths)",
-                "QuickGrill (2021): Developed Android app to control the grill's fan. Implemented connectivity with ESP32 using C++ and Platform IO. (4mths)",
-                "Emissary Software (2021): Contributed to security compliance efforts and backend development, including third-party API integrations. (9mths)"
+                "Aivilo (2025-4mths): Implemented role-based access control (RBAC) across multiple customers, ensuring proper data access isolation between users and roles.",
+                "AtticGames (2024-4mths): Built an LLM-based content generation system, addressing challenges in response consistency and prompt design for repeatable outputs.",
+                "QuickGrill (2021-4mths): Developed Android app to control the grill's fan. Implemented connectivity with ESP32 using C++ and Platform IO.",
+                "Emissary Software (2021-9mths): Contributed to security compliance efforts and backend development, including third-party API integrations."
             ],
             "techHighlights": []
         },
@@ -48,16 +48,17 @@
             "position": "Backend AI Engineer",
             "url": "https://www.epicio.com/",
             "startDate": "2024-11-18",
-            "endDate": null,
-            "summary": "This role involves optimizing infrastructure, automating deployments, and integrating monitoring solutions to ensure the reliability and efficiency of AI applications.",
+            "endDate": "2026-05-10",
+            "summary": "Infrastructure optimization, deployment automation, monitoring integrations to ensure reliability and efficiency of AI applications.",
             "isRemote": true,
             "location": "US",
             "highlights": [
-                "Productized Computer Vision PoCs, by standardizing and and hardened internal  APIs, turning prototype endpoints into reliable, production-ready backend services.",
+                "Introduced asynchronous processing patterns to decouple API services from compute-heavy pipelines.",
+                "Standardized and hardened internal Computer Vision APIs, turning prototype endpoints into reliable, production-ready backend services.",
                 "Automated performance testing with Locust and Bitbucket pipelines.",
                 "Implemented observability and profiling using OpenTelemetry.",
                 "Improved release times from 8hs to 2hs, by using Docker multi-stage and Ansible.",
-                "Introduced asynchronous processing patterns to decouple API services from compute-heavy pipelines."
+                "Automated performance testing with Locust and Bitbucket pipelines."
             ],
             "techHighlights": [
                 "Python",
@@ -86,9 +87,10 @@
             "isRemote": true,
             "location": "Buenos Aires",
             "highlights": [
-                "Designed backend infrastructure on AWS using Terraform, focusing on scalability, isolation, security and maintainability. Implemented CI/CD pipelines in AWS+GitHub.",
+                "Designed backend infrastructure on AWS using Terraform, focusing on scalability, isolation, security and maintainability.",
                 "Led adoption of Ports & Adapters architecture, replacing a fragmented Python/SQL approach.",
                 "Led adoption of AI-assisted development workflows across the team.",
+                "Implemented CI/CD pipelines with GitHub/AWS.",
                 "Reduced AWS legacy costs by 30%, while improving security posture.",
                 "Mentored teams into making their own design choices, while keeping global consistency."
             ],
@@ -539,9 +541,22 @@
     "references": null,
     "projects": [
         {
-            "name": "Atendi",
+            "name": "apodexIA",
             "startDate": "2024-02-01",
             "endDate": null,
+            "description": "Sports analytics (startup phase)",
+            "highlights": [
+                "FastAPI",
+                "Terraform",
+                "AWS",
+                "Computer Vision"
+            ],
+            "url": null
+        },
+        {
+            "name": "Atendi",
+            "startDate": "2024-02-01",
+            "endDate": "2025-02-01",
             "description": "We use people's faces to take attendance. Currently marketed towards Universities.",
             "highlights": [
                 "FastAPI",
@@ -569,7 +584,7 @@
             "name": "JSON Career View",
             "startDate": "2024-04-09",
             "endDate": null,
-            "description": "Render a resume based on a JSON file, using the jsonresume standard. You're looking at it :)",
+            "description": "You're looking at it :) -- Massively taken over by LLMs",
             "highlights": [
                 "ReactJS",
                 "TypeScript",
