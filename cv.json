@@ -107,6 +107,7 @@
             "startDate": "2025-11-28",
             "endDate": "2026-02-28",
             "summary": "Tasked with integrating security RBAC to almost-finished MVP.",
+            "isFreelance": true,
             "isRemote": true,
             "location": "US",
             "highlights": [
@@ -119,12 +120,13 @@
         },
         {
             "name": "Upwork/AtticGames",
-            "position": "LLM Python Developer",
+            "position": "AI Python Developer",
             "showInProfiles": ["backend-ai"],
             "url": "https://www.atticgamesdevelopment.com/",
             "startDate": "2024-07-01",
             "endDate": "2024-11-15",
-            "summary": "Tasked with integrating an LLM to a game to generate endless content for worlds based on the user's prompt. Main challenge: response repeatability.",
+            "summary": "LLM integration to a game-engine, in order to generate endless content for worlds based on the user's prompt. Main challenge: response repeatability.",
+            "isFreelance": true,
             "isRemote": true,
             "location": "US",
             "highlights": [
@@ -254,12 +256,13 @@
         },
         {
             "name": "QuickGrill",
-            "position": "Freelance IoT developer",
+            "position": "IoT developer",
             "showInProfiles": ["iot"],
             "url": null,
             "startDate": "2021-09-21",
             "endDate": "2022-07-01",
             "summary": "Worked independently for a startup which developed a bluetooth-controlled grill. I was tasked to create the interface between an Android device and the grill's brain.",
+            "isFreelance": true,
             "isRemote": true,
             "location": "Buenos Aires",
             "highlights": [
@@ -325,7 +328,7 @@
         },
         {
             "name": "Defense Ministry/CITEDEF",
-            "position": "Defense IoT Software Developer",
+            "position": "IoT Developer",
             "showInProfiles": ["iot"],
             "url": null,
             "startDate": "2010-08-01",
@@ -351,7 +354,7 @@
             "url": null,
             "area": "AWS Solutions Architect",
             "studyType": null,
-            "startDate": "2024-02-01",
+            "startDate": "2026-02-01",
             "endDate": null
         },
         {
