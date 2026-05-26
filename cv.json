@@ -457,21 +457,14 @@
             ]
         },
         {
-            "name": "Cloud",
+            "name": "Infrastructure",
             "level": null,
             "keywords": [
-                "AWS IAM",
-                "AWS S3",
-                "AWS EC2",
-                "AWS STS",
-                "AWS SES",
-                "AWS SecretsManager",
-                "AWS SystemManager",
-                "AWS ECR",
-                "AWS Billing",
-                "AWS AppRunner",
-                "AWS LoadBalancer",
-                "AWS AutoScalingGroup"
+                "AWS (IAM, S3, STS, SES, SM, ECR)",
+                "Terraform",
+                "Ansible",
+                "Docker",
+                "CI/CD"
             ]
         },
         {
@@ -490,6 +483,7 @@
             "keywords": [
                 "PostgreSQL",
                 "MySQL",
+                "SAP HANA",
                 "Redis",
                 "ORM"
             ]
@@ -536,8 +530,7 @@
     "resumeProfiles": {
         "backend": {
             "title": "Backend / Platform",
-            "description": "Backend & platform engineering",
-            "skills": ["Backend", "Cloud", "Observability", "Databases", "Tools"]
+            "description": "Backend & platform engineering"
         },
         "backend-ai": {
             "title": "Backend + AI",
@@ -545,8 +538,7 @@
         },
         "devops": {
             "title": "DevOps / Cloud",
-            "description": "DevOps & cloud platform",
-            "skills": ["Backend", "Cloud", "Observability", "Tools"]
+            "description": "DevOps & cloud platform"
         }
     },
     "projects": [
