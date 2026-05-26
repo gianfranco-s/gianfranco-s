@@ -256,7 +256,7 @@
         },
         {
             "name": "QuickGrill",
-            "position": "IoT developer",
+            "position": "IoT Developer",
             "showInProfiles": ["iot"],
             "url": null,
             "startDate": "2021-09-21",
@@ -441,15 +441,13 @@
             "name": "Backend",
             "level": null,
             "keywords": [
-                "Python (FastAPI, Flask)",
+                "Python",
+                "FastAPI",
+                "Flask",
                 "PyTest",
-                "bash",
-                "nginx",
+                "Linux",
+                "NGINX",
                 "Ollama",
-                "Docker",
-                "Ansible",
-                "Terraform",
-                "Kubernetes",
                 "Selenium",
                 "Gstreamer",
                 "Pandas",
@@ -467,6 +465,7 @@
                 "Terraform",
                 "Ansible",
                 "Docker",
+                "Kubernetes",
                 "CI/CD"
             ]
         },
